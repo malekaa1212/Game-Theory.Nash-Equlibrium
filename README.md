@@ -5,7 +5,7 @@ This project demonstrates how to find a Nash Equilibrium in a real-life rent div
 
 ## Files
 - `NE_game_theory.report.pdf` — full report
-
+- `NE_game_theory.presentation.pdf` — full report
 ## Hand calculations
 - Malika: 150,000 - 120,000 = 30
 - Agila: 140,000 - 100,000 = 40
@@ -14,4 +14,5 @@ This project demonstrates how to find a Nash Equilibrium in a real-life rent div
 
 ## Tools
 - Overleaf (LaTeX)
-- Python
+- Python code
+- 
