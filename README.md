@@ -15,4 +15,6 @@ This project demonstrates how to find a Nash Equilibrium in a real-life rent div
 ## Tools
 - Overleaf (LaTeX)
 - Python code
-- 
+
+## Conclusion
+"The Nash equilibrium was conceived by John Nash back then to find the best strategy during nuclear bombings. It describes a situation where no one wants to change their strategy on their own. And winning or maximum payoff isn't always the point — it's not just about competition."
