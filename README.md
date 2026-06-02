@@ -3,7 +3,7 @@
 ## Project description
 This project demonstrates how to find a Nash Equilibrium in a real-life rent division scenario with three students.
 
-## Repositories contents
+## Repository contents
 - `NE_game_theory.report.pdf` — full report
 - `NE_game_theory.presentation.pdf` — presentation slides
 ## Hand calculations
